@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PinballFinder/static/css/main.e2f34326.css",
-    "main.js": "/PinballFinder/static/js/main.8965b554.js",
+    "main.js": "/PinballFinder/static/js/main.88ef4241.js",
     "static/js/787.e582354a.chunk.js": "/PinballFinder/static/js/787.e582354a.chunk.js",
     "index.html": "/PinballFinder/index.html",
     "main.e2f34326.css.map": "/PinballFinder/static/css/main.e2f34326.css.map",
-    "main.8965b554.js.map": "/PinballFinder/static/js/main.8965b554.js.map",
+    "main.88ef4241.js.map": "/PinballFinder/static/js/main.88ef4241.js.map",
     "787.e582354a.chunk.js.map": "/PinballFinder/static/js/787.e582354a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2f34326.css",
-    "static/js/main.8965b554.js"
+    "static/js/main.88ef4241.js"
   ]
 }
