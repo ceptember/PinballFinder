@@ -6,6 +6,9 @@ This app was written in React and bootstrapped with [Create React App](https://g
 
 To view the code, please open the file `./src/App.js` 
 
+## Live Demo
+
+To view this app without creating a local copy, please visit [https://ceptember.github.io/PinballFinder/](https://ceptember.github.io/PinballFinder/)
 
 ## Creating a local copy 
 
@@ -23,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.
 
 
-
+# Thank you! 
 
 
 

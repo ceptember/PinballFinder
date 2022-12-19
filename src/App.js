@@ -102,13 +102,16 @@ function filterResultsByDistance(allResults, distance){
 
         <br /><br />
 
-        <form onSubmit={ (event) => handleSearch(event)}>
+        <form id="search_form" onSubmit={ (event) => handleSearch(event)}>
           
-          <div>
-          Latitude: <input type="text" value={latInput} onChange={ (event)=> setLatInput(event.target.value)} ></input>   &nbsp;
+         <div id="input_fields">
+          Latitude: <input type="text" value={latInput} onChange={ (event)=> setLatInput(event.target.value)} ></input>   &nbsp; 
+          <br />
           Longitude: <input type="text" value={longInput} onChange={ (event)=> setLongInput(event.target.value)}></input>  
+           <br />
           <button id="near_me_btn" onClick={findByIP}>Near Me</button>
           </div>
+          <br /><br />
 
         
           Select distance:
